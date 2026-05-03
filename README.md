@@ -2,7 +2,7 @@
 
 ## Overview
 An interactive Power BI dashboard built to analyze Superstore sales performance and generate 15-day sales forecasts.
-This project delivers key business insights across regions, categories, and customer segments while enabling data-driven decision-making.
+This project delivers key business insights across regions, categories and customer segments while enabling data-driven decision-making.
 
 ---
 
