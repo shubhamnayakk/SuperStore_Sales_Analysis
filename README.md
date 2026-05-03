@@ -1,4 +1,4 @@
-## 📊 Superstore Sales Forecast Dashboard
+## 📊 Superstore Sales Analysis & Forecast Dashboard
 
 ## Overview
 An interactive Power BI dashboard built to analyze Superstore sales performance and generate 15-day sales forecasts.
